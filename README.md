@@ -7,7 +7,7 @@ Este modelo se basa en un modelo de aprendizaje supervisado.
 Obtención de Data:
 El Dataset es obtenido de [Kaggle](https://www.kaggle.com/mlg-ulb/creditcardfraud) 
 
-Los datos son dos días de un banco europeo donde hay mas de **280,000 transacciones**, sin embargo, por la naturaleza de la información, los datos que están en el dataset son el resultado de PCA ya que de este modo la información que obtengamos será anónima, sin afectar la información en sí.
+Los datos son dos días de un banco europeo donde hay **284,807 transacciones con 30 variables**, sin embargo, por la naturaleza de la información, los datos que están en el dataset son el resultado de PCA ya que de este modo la información que obtengamos será anónima, sin afectar la información en sí.
 
 ### Modelos Utilizados
 Se utiliza las siguientes librería:
